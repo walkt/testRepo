@@ -7,4 +7,5 @@ public class Class2 {
     int i4 = 4;
 
     int i5 = 5;
+    int i6 = 6;
 }
