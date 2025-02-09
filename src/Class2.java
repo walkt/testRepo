@@ -5,4 +5,6 @@ public class Class2 {
 
     int i3 = 3;
     int i4 = 4;
+
+    int i5 = 5;
 }
