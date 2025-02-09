@@ -4,4 +4,5 @@ public class Class1 {
     String second = "Second";
 
     String third = "Third";
+    String forth = "Forth";
 }
