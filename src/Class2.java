@@ -11,4 +11,5 @@ public class Class2 {
     int i7 = 7;
 
     int i8 = 8;
+    int i9 = 9;
 }
